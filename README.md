@@ -51,7 +51,7 @@ python <脚本>
 
 ```bash
 # 全局（对所有项目可用）
-git clone https://github.com/<your-username>/icp-oes-skills.git
+git clone https://github.com/E1582271-dotcom/icp-oes-skills.git
 cp -r icp-oes-skills/skills/* ~/.claude/skills/
 ```
 
