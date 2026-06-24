@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.uv/
+
+# 输出/数据产物（不把实验数据和图推上去）
+*.xlsx
+*.csv
+*.png
+*.pdf
+!**/example*.csv
+
+# OS / 编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
